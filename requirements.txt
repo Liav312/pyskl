@@ -1,11 +1,12 @@
---index-url https://download.pytorch.org/whl/cu118
+--extra-index-url https://download.pytorch.org/whl/cu118
 -f https://download.openmmlab.com/mmcv/dist/cu118/torch2.1.0/index.html
+
 torch==2.1.2+cu118
 torchvision==0.16.2+cu118
 torchaudio==2.1.2+cu118
 
+mmengine==0.10.4
 mmcv==2.1.0
-decord>=0.6.0
 fvcore
 matplotlib
 mmdet==2.23.0
@@ -17,4 +18,3 @@ opencv-python
 pymemcache
 scipy
 tqdm
-mmengine==0.10.4
