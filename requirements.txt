@@ -10,11 +10,12 @@ mmcv==2.1.0
 fvcore
 matplotlib
 mmdet==2.23.0
-mmpose==1.2.0
 moviepy
-numpy>=1.19.5
 opencv-contrib-python
 opencv-python
 pymemcache
+chumpy==0.70.0
 scipy
+numpy>=1.19.5
+mmpose==1.2.0
 tqdm
