@@ -3,7 +3,7 @@
 torch==2.1.2+cu118
 torchvision==0.16.2+cu118
 torchaudio==2.1.2+cu118
-mmengine==0.10.4
+
 mmcv==2.1.0
 decord>=0.6.0
 fvcore
@@ -16,5 +16,5 @@ opencv-contrib-python
 opencv-python
 pymemcache
 scipy
-torch>=1.5
 tqdm
+mmengine==0.10.4
